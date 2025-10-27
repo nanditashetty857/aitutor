@@ -11,9 +11,6 @@ Navigate into the sample directory and then
 1. Install dependencies with `npm i` or `yarn`
 2. Run the Amplify sandbox command to create a cloud sandbox: `npx ampx sandbox`
 
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
 
